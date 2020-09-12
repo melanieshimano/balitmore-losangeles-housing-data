@@ -16,3 +16,7 @@ _italic_
 www.google.com
 
 [click for google](www.google.com)
+
+## graph to show
+
+![alt text](https://github.com/melanieshimano/balitmore-losangeles-housing-data/blob/master/parent_income_dist_by_tier.png)
